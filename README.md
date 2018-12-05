@@ -5,6 +5,6 @@ de interesse. Pretendo construir um bookmark de livros nas áreas que trabalho c
 informações resumidas de cada um. Cada área terá um arquivo markdown com os dados
 dos livros.
 
-- [Estatística](/estatistica/README.me).
+- [Estatística](/estatistica/README.md).
 - [Otimização](/otimizacao/README.md).
 - [Machine Learning](/machine-learning/README.md).

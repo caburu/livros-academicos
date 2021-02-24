@@ -8,3 +8,8 @@ dos livros.
 - [Estatística](/estatistica/README.md).
 - [Otimização](/otimizacao/README.md).
 - [Machine Learning](/machine-learning/README.md).
+- [Métodos numéricos](/metodos-numericos/README.md).
+
+## Programação
+
+- [Python](/programacao/python/README.md).
